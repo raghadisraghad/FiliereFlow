@@ -1,0 +1,26 @@
+# Laravel
+/vendor
+/node_modules
+/public/build
+/public/hot
+/storage/*.key
+/storage/framework/*
+/storage/logs/*
+.env
+.env.*
+
+# Vite
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea
+.vscode
+public/pictures
+
+#node
+package-lock.json
